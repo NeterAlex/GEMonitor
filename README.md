@@ -13,4 +13,5 @@ Intelligent environmental detection device based on Arduino and ESP8266.
 
 # Schema
 > Build using Fritzing
+
 ![Project Schema](https://github.com/NeterAlex/GEMonitor/blob/main/GEMonitor%20Schema.png?raw=true)
