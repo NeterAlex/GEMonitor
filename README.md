@@ -1,5 +1,7 @@
 # GEMonitor
-Intelligent environmental detection device based on Arduino and ESP8266.
+Intelligent environmental detection device based on Arduino(WiFiduino) and ESP8266.
+
+Edit using `Arduino IDE`
 
 # Feature
 - Temperature and humidity detection
